@@ -17,7 +17,7 @@ Also fluent in: Laravel, Lumen, REST API design, system design for mid-scale app
 
 ## Recent shipped projects
 
-- [RuangKelasku](https://ruangkelasku.com) — Next.js 14 EdTech platform built with AI-assisted workflows
+- [RuangKelasku](https://ruangkelasku.com) — Next.js 16 EdTech platform built with AI-assisted workflows
 
 ## Looking for
 
