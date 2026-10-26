@@ -2,6 +2,8 @@
 
 **Senior Frontend Engineer** — React · Next.js · TypeScript · 8+ years
 
+[![Watch my 60-second intro](intro.jpg)](https://chalidade.github.io/#intro)
+
 I build production web apps for global teams across EdTech, logistics and fintech. My day job is
 **Lerero v2**, a white-label LMS and Stripe course marketplace (Next.js, React 19, TypeScript). I'm
 its sole frontend engineer, with 490+ merged PRs. That code lives in private repos under a
