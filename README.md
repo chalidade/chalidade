@@ -8,6 +8,20 @@ its sole frontend engineer, with 490+ merged PRs. That code lives in private rep
 separate work account ([@chalidade-kpi](https://github.com/chalidade-kpi)), so this account is
 where I build in public.
 
+## Six years on the work account
+
+| Year | Contributions | What I was working on |
+| --- | ---: | --- |
+| 2021 | 941 | Lerero frontend and the Learning Reinforcement app |
+| 2022 | 667 | Lerero LMS frontend |
+| 2023 | 1,383 | LMS and the course marketplace |
+| 2024 | 938 | LMS and marketplace |
+| 2025 | 1,207 | Code review grew to 36% of my activity; promoted to technical lead in November |
+| **Past 12 months** | **2,675** | Sole frontend engineer on Lerero v2, 490+ merged PRs |
+
+5,100+ contributions from 2021 to 2025 (commits, pull requests and code reviews in private
+repositories), from GitHub's contribution graph on [@chalidade-kpi](https://github.com/chalidade-kpi).
+
 ## What I'm building
 
 | Project | What it is | Links |
