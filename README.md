@@ -6,7 +6,7 @@
 
 I build production web apps for global teams across EdTech, logistics and fintech. My day job is
 **Lerero v2**, a white-label LMS and Stripe course marketplace (Next.js, React 19, TypeScript). I'm
-its sole frontend engineer, with 490+ merged PRs. That code lives in private repos under a
+its sole frontend engineer, with 490+ merged PRs on v2 and 2,500+ merged PRs on the work account since 2021. That code lives in private repos under a
 separate work account ([@chalidade-kpi](https://github.com/chalidade-kpi)), so this account is
 where I build in public.
 
